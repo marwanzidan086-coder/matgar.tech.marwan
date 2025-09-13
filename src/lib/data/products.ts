@@ -76,7 +76,7 @@ const productDetails: Omit<Product, 'images'>[] = [
 - العلامة التجارية: Earldom.
 - السعة: 10000 مللي أمبير.
 - مدخل/مخرج الشحن: 5V/2.1A.`,
-    price: 430,
+    price: 460,
     category: "إكسسوارات",
   },
   {
